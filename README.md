@@ -11,5 +11,5 @@ Please see CodePen: https://codepen.io/K-SY/pen/XWpeWrP
   > - All variables has a placeholder called 'undefined'
   > - This stage is call hoisting for the functions and the variables.
 
-### In secend phase, execution phase.
+### In second phase, execution phase.
   > - That are going to be used when it starts executing the code line by line.
